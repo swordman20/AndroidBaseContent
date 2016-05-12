@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01Android4种数据存储方式/01Android4种数据存储方式.iml" filepath="$PROJECT_DIR$/01Android4种数据存储方式/01Android4种数据存储方式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Android下XML文件的生成和解析/02Android下XML文件的生成和解析.iml" filepath="$PROJECT_DIR$/02Android下XML文件的生成和解析/02Android下XML文件的生成和解析.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Android数据库的增删改查/03android数据库的增删改查.iml" filepath="$PROJECT_DIR$/03Android数据库的增删改查/03android数据库的增删改查.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Android数据库的事务/04Android数据库的事务.iml" filepath="$PROJECT_DIR$/04Android数据库的事务/04Android数据库的事务.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05AndroidListViewTest/05ListViewTest.iml" filepath="$PROJECT_DIR$/05AndroidListViewTest/05ListViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Android访问网络/06android访问网络.iml" filepath="$PROJECT_DIR$/06Android访问网络/06android访问网络.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBaseContent.iml" filepath="$PROJECT_DIR$/AndroidBaseContent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

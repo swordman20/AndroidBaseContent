@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01Android4种数据存储方式" />
+            <option value="$PROJECT_DIR$/02Android下XML文件的生成和解析" />
+            <option value="$PROJECT_DIR$/03Android数据库的增删改查" />
+            <option value="$PROJECT_DIR$/04Android数据库的事务" />
+            <option value="$PROJECT_DIR$/05AndroidListViewTest" />
+            <option value="$PROJECT_DIR$/06Android访问网络" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01Android4种数据存储方式" />
+            <option value="$PROJECT_DIR$/02Android下XML文件的生成和解析" />
+            <option value="$PROJECT_DIR$/03Android数据库的增删改查" />
+            <option value="$PROJECT_DIR$/04Android数据库的事务" />
+            <option value="$PROJECT_DIR$/05AndroidListViewTest" />
+            <option value="$PROJECT_DIR$/06Android访问网络" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

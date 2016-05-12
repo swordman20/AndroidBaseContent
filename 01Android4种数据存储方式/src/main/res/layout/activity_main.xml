@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.a01android4.MainActivity">
+
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入要保存的数据"/>
+    <Button
+        android:id="@+id/sp_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SP保存"/>
+    <Button
+        android:id="@+id/sp_getConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SP取出数据"/>
+    <Button
+        android:id="@+id/phoneSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="getFilesDir存储数据"/>
+    <Button
+        android:id="@+id/phone_getConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="getFilesDir取出数据"/>
+    <Button
+        android:id="@+id/SD_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="保存数据到SD卡中"/>
+    <Button
+        android:id="@+id/SD_getConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="从SD卡中取出数据"/>
+
+
+</LinearLayout>
